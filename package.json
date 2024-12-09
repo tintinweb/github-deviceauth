@@ -1,0 +1,15 @@
+{
+  "name": "github-deviceauth",
+  "version": "1.0.0",
+  "description": "A minimalistic library to perform GitHub OAuth via the DeviceAuth Flow",
+  "main": "src/index.js",
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "tintinweb",
+  "license": "ISC",
+  "dependencies": {
+    "node-fetch": "^3.3.2"
+  }
+}
